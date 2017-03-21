@@ -8,7 +8,7 @@ void libb_hello() {
   liba_hello();
   fprintf(stdout, "%s\n", "about to say hello from liba... [done]");
 
-  fprintf(stdout, "%s\n", "hello from libb");
+  fprintf(stdout, "%s\n", "hello from libb de la part de Charles");
 }
 
 /* EOF */
